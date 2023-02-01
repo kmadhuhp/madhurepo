@@ -10,3 +10,6 @@ it is git hub
 {
 welcome to branching stategy
 }
+{
+iam stashing area file
+}
