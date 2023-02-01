@@ -7,3 +7,6 @@ good morning all
 {
 it is git hub 
 }
+{
+welcome to branching stategy
+}
